@@ -14,13 +14,6 @@
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=eb106b)](https://www.instagram.com/daniil_ivch/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=1815e8)](https://vk.com/danielangl)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1815e8)](https://t.me/Pishch_Daniil)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1815e8)](https://t.me/GDRP_Ones)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nerogen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**PishchDaniil/PishchDaniil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- ⚡ Fun fact: 
-Here are some ideas to get you started:
--->
