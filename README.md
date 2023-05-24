@@ -14,6 +14,6 @@
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=eb106b)](https://www.instagram.com/daniil_ivch/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=1815e8)](https://vk.com/danielangl)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1815e8)](https://t.me/DFSM_ONES)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1815e8)](https://t.me/NERO_DMCT)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nerogen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
