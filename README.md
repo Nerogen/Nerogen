@@ -1,8 +1,8 @@
-## I'm a begginer Software Engeneer
+## I'm a Software Engeneer
 
 ### About me 
-- 🌱 I’m currently learning Java & Python
-- 🎸 Sometimes learning JavaScript and basicks of HTML and CSS
+- 🌱 I’m currently learning basics of design arhetecture on python
+- 🎸 Sometimes learning JavaScript, React and basicks of HTML and CSS
 
 ### Language and Tools
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=fc8732)
@@ -14,6 +14,6 @@
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=eb106b)](https://www.instagram.com/daniil_ivch/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=1815e8)](https://vk.com/danielangl)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1815e8)](https://t.me/NERO_DMCT)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1815e8)](https://t.me/Nero_uxi)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nerogen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
