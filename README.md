@@ -12,6 +12,6 @@
 
 
 ### Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1815e8)](https://t.me/Nero_uxi)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1815e8)](https://t.me/DevOfClosedProjects)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nerogen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
